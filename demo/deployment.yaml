@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: tetris
-        image: uzyexe/tetris:latest
+        image: uzyexe/tetris:error
         # port 
         ports:
         - containerPort: 80
